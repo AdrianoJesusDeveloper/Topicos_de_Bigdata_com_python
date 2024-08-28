@@ -33,6 +33,12 @@ Este projeto de extensão foi desenvolvido como parte de uma parceria entre alun
 - **Python**: Linguagem de programação usada para processar os dados e criar o dashboard.
 - **Pandas**: Biblioteca para manipulação e análise de dados.
 - **Plotly/Dash**: Ferramentas usadas para criar o dashboard interativo.
+- **XlsxWriter: Para criar planilhas Excel personalizadas.
+- **OpenPyXL: Para garantir compatibilidade na leitura e escrita dos arquivos Excel.
+- **Chardet: Para garantir a correta leitura do encoding dos arquivos de texto.
+📽️ Confira o vídeo abaixo onde mostro o processo completo e os resultados:
+- **https://www.linkedin.com/feed/update/urn:li:activity:7233238254769045504/
+
 
 
 
