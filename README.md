@@ -33,6 +33,6 @@ Este projeto de extensão foi desenvolvido como parte de uma parceria entre alun
 - **Python**: Linguagem de programação usada para processar os dados e criar o dashboard.
 - **Pandas**: Biblioteca para manipulação e análise de dados.
 - **Plotly/Dash**: Ferramentas usadas para criar o dashboard interativo.
-- **Jupyter Notebooks**: Usados para análise exploratória dos dados.
+
 
 
