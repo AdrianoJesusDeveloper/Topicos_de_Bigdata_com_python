@@ -39,6 +39,11 @@ Este projeto de extensão foi desenvolvido como parte de uma parceria entre alun
 📽️ Confira o vídeo abaixo onde mostro o processo completo e os resultados:
 - **https://www.linkedin.com/feed/update/urn:li:activity:7233238254769045504/
 
+  ![*Horas Extras por Filial](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem2.png)
+  ![Faltas e atrasos](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem4.png)
+  ![Total de Colaboradores](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem5.png)
+  ![Horeas Extras por Colaborador](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imgem1.png)
+
 
 
 
