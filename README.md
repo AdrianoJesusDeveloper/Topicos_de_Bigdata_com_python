@@ -38,14 +38,15 @@ Este projeto de extensão foi desenvolvido como parte de uma parceria entre alun
 - **Chardet: Para garantir a correta leitura do encoding dos arquivos de texto.
 -  A extração dos dados também pode ser feita via google  [click aqui](https://colab.research.google.com/drive/1BpOUihp5xQpPUYhTqAaJuCWWR1Ji4nFa)
 - 📽️ Confira o vídeo abaixo onde mostro o processo completo e os resultados:
+- ### Demonstração em Vídeo
 - Para assistir à demonstração, [clique aqui](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/commit/bf72d2b89dea144005ed5dced348ef403fb03d69).
 - **https://www.linkedin.com/feed/update/urn:li:activity:7233238254769045504/
-  
+
+- ![Total de Colaboradores](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem5.png)  
   ![*Horas Extras por Filial](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem2.png)
-  ![Faltas e atrasos](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem4.png)
-  ![Total de Colaboradores](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem5.png)
+  ![Faltas e atrasos](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem4.png)  
   ![Horeas Extras por Colaborador](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imgem1.png)
-  ### Demonstração em Vídeo
+  
   
 
 
