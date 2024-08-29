@@ -36,7 +36,7 @@ Este projeto de extensão foi desenvolvido como parte de uma parceria entre alun
 - **XlsxWriter: Para criar planilhas Excel personalizadas.
 - **OpenPyXL: Para garantir compatibilidade na leitura e escrita dos arquivos Excel.
 - **Chardet: Para garantir a correta leitura do encoding dos arquivos de texto.
-- O a extração dos dados também pode ser feita via google  [click aqui](https://colab.research.google.com/drive/1BpOUihp5xQpPUYhTqAaJuCWWR1Ji4nFa)
+-  A extração dos dados também pode ser feita via google  [click aqui](https://colab.research.google.com/drive/1BpOUihp5xQpPUYhTqAaJuCWWR1Ji4nFa)
 - 📽️ Confira o vídeo abaixo onde mostro o processo completo e os resultados:
 - Para assistir à demonstração, [clique aqui](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/commit/bf72d2b89dea144005ed5dced348ef403fb03d69).
 - **https://www.linkedin.com/feed/update/urn:li:activity:7233238254769045504/
