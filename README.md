@@ -43,6 +43,9 @@ Este projeto de extensão foi desenvolvido como parte de uma parceria entre alun
   ![Faltas e atrasos](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem4.png)
   ![Total de Colaboradores](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem5.png)
   ![Horeas Extras por Colaborador](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imgem1.png)
+  ### Demonstração em Vídeo
+  Para assistir à demonstração, [clique aqui](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/commit/bf72d2b89dea144005ed5dced348ef403fb03d69).
+
 
 
 
