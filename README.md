@@ -1,46 +1,92 @@
- Dashboard para Gestão de Dados na Cocatrel
+# 📊 Dashboard de Gestão de Ponto Eletrônico
 
-## Descrição
-Este projeto de extensão foi desenvolvido como parte de uma parceria entre alunos da Universidade Estácio e a Cooperativa Cocatrel. O objetivo é criar um **dashboard interativo** para a gestão de dados de ponto dos colaboradores da cooperativa, permitindo uma análise mais eficiente e precisa das informações.
+## 📌 Descrição do Projeto
+Projeto acadêmico desenvolvido durante a formação em **Ciência de Dados**, com o objetivo de automatizar o processamento de registros de ponto eletrônico e gerar **insights acionáveis para a gestão de equipes**.
 
-## Estrutura do Projeto
+A solução realiza a leitura de arquivos **TXT não estruturados**, transforma os dados brutos em informações organizadas e disponibiliza **indicadores operacionais por meio de dashboards interativos**, facilitando a análise e interpretação dos dados.
 
-- **data/**: Contém os dados brutos e processados utilizados no projeto.
-  - **raw/**: Dados brutos fornecidos pela Cocatrel.
-  - **processed/**: Dados processados, prontos para serem usados no dashboard.
+---
 
-- **notebooks/**: Jupyter Notebooks usados para a análise exploratória e desenvolvimento inicial.
-  - **analise_inicial.ipynb**: Análise exploratória inicial dos dados.
+## 🎯 Objetivo
+- Automatizar o tratamento de dados de ponto eletrônico  
+- Transformar dados brutos em informações analisáveis  
+- Criar indicadores de desempenho operacional  
+- Apoiar a tomada de decisão gerencial  
 
-- **src/**: Scripts em Python para processamento dos dados e criação do dashboard.
-  - **data_processing.py**: Script para limpar e processar os dados brutos.
-  - **dashboard.py**: Script principal para gerar o dashboard interativo.
-  - **utils.py**: Funções auxiliares usadas no projeto.
+---
 
-- **docs/**: Documentos e evidências relacionadas ao projeto.
-  - **capturas_de_tela/**: Imagens do dashboard em diferentes fases de desenvolvimento.
-  - **reunioes/**: Documentos de reuniões realizadas com a equipe da Cocatrel.
-  - **relatorio_feedback.pdf**: Relatório com feedback dos usuários.
+## 🗂️ Fonte de Dados
+Os dados utilizados neste projeto foram fornecidos em **contexto acadêmico**, originados de registros reais de ponto eletrônico em formato TXT.
 
-- **README.md**: Este arquivo, que fornece uma visão geral do projeto.
+Por conterem **informações sensíveis e confidenciais**, os arquivos originais **não estão disponíveis publicamente**.
 
-- **LICENSE**: Licença que rege o uso do projeto.
+Para fins de demonstração, este repositório inclui um **conjunto de dados fictício**, com a mesma estrutura do arquivo original, permitindo a execução do pipeline completo e a visualização dos resultados sem exposição de informações reais.
 
-- **.gitignore**: Arquivo que especifica quais arquivos e pastas devem ser ignorados pelo Git.
+---
 
-## Tecnologias Utilizadas
+## 🔄 Etapas do Projeto
+1. Leitura do arquivo TXT  
+2. Tratamento e extração de dados utilizando **Regex**  
+3. Conversão dos dados para estrutura tabular  
+4. Limpeza, padronização e organização dos dados com **Pandas**  
+5. Cálculo de indicadores operacionais  
+6. Exportação dos dados tratados para Excel  
+7. Construção de **dashboards interativos**  
 
-- **Python**: Linguagem de programação usada para processar os dados e criar o dashboard.
-- **Pandas**: Biblioteca para manipulação e análise de dados.
-- **Plotly/Dash**: Ferramentas usadas para criar o dashboard interativo.
-- **XlsxWriter: Para criar planilhas Excel personalizadas.
-- **OpenPyXL: Para garantir compatibilidade na leitura e escrita dos arquivos Excel.
-- **Chardet: Para garantir a correta leitura do encoding dos arquivos de texto.
--  A extração dos dados também pode ser feita via google  [click aqui](https://colab.research.google.com/drive/1BpOUihp5xQpPUYhTqAaJuCWWR1Ji4nFa)
-- 📽️ Confira o vídeo abaixo onde mostro o processo completo e os resultados:
-- ### Demonstração em Vídeo
-- Para assistir à demonstração, [clique aqui](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/commit/bf72d2b89dea144005ed5dced348ef403fb03d69).
-- **https://www.linkedin.com/feed/update/urn:li:activity:7233238254769045504/
+---
+
+## 📈 Indicadores Gerados
+- Horas extras  
+- Atrasos  
+- Faltas  
+- Ranking de desempenho por colaborador  
+- Comparativo de indicadores entre filiais  
+
+---
+
+## 📊 Visualização e Dashboards
+O projeto conta com **dashboards interativos desenvolvidos com Plotly, Dash e Streamlit**, permitindo:
+
+- Visualização gráfica de indicadores operacionais  
+- Filtros dinâmicos por colaborador e filial  
+- Análise comparativa de desempenho  
+- Exploração visual dos dados para identificação de padrões e outliers  
+
+Os gráficos gerados facilitam a comunicação dos resultados e o suporte à tomada de decisão gerencial.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- Python  
+- Pandas  
+- Plotly  
+- Dash  
+- Streamlit  
+- Regex  
+- XlsxWriter  
+- datetime  
+
+---
+
+## 🧠 Principais Aprendizados
+- Tratamento de dados não estruturados  
+- Automação de processos com Python  
+- Análise exploratória de dados  
+- Construção de dashboards interativos  
+- Comunicação de dados por meio de visualizações  
+- Tradução de dados técnicos em insights de negócio  
+
+---
+
+## 🚀 Próximos Passos
+- Integração com banco de dados  
+- Automação do pipeline de ingestão de dados  
+- Deploy da aplicação em ambiente cloud (AWS)  
+
+---
+
+📌 **Projeto desenvolvido para fins acadêmicos e educacionais.**
+
 
 - ![Total de Colaboradores](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem5.png)  
   ![*Horas Extras por Filial](https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python/blob/main/imagem2.png)
